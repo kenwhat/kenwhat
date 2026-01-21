@@ -3,7 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kenwhat&label=Profile%20views&color=0e75b6&style=flat" alt="kenwhat" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/api/?username=kenwhat&theme=onedark" alt="kenwhat" /></a> </p>
 
 ## 👨‍💻 About Me
 
@@ -56,6 +55,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kenwhat&show_icons=true&locale=en&theme=radical" alt="kenwhat" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenwhat&theme=radical" alt="kenwhat" />
-</p>
+
