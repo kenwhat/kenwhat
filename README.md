@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenwhat&label=Profile%20views&color=0e75b6&style=flat" alt="kenwhat" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kenwhat" alt="kenwhat" /></a> </p>
-
 - 🌱 I’m currently learning **Machine learning and Web development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yowwhat?tab=repositories](https://github.com/yowwhat?tab=repositories)
@@ -24,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kenwhat&show_icons=true&locale=en&layout=compact" alt="kenwhat" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kenwhat&show_icons=true&locale=en" alt="kenwhat" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kenwhat&" alt="kenwhat" /></p>
