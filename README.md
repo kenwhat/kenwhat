@@ -10,7 +10,7 @@
 - 💼 Studying Information Technology with a passion for creating intelligent applications
 - 🎯 Focusing on **Python**, **JavaScript**, **React**, and **TensorFlow**
 - 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/kenwhat?tab=repositories)
-- ⚡ Fun fact: **Currently in a relationship with Python and JavaScript**
+- ⚡ Fun fact: **Im Single**
 
 ## 🚀 Featured Projects
 
