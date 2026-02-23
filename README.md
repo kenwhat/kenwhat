@@ -47,7 +47,11 @@
 
 ## 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kenwhat&show_icons=true&locale=en&layout=compact&theme=radical" alt="kenwhat" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kenwhat&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kenwhat&show_icons=true&locale=en&theme=radical" alt="kenwhat" /></p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kenwhat&show_icons=true&locale=en&theme=radical&cache_seconds=1800" alt="kenwhat's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kenwhat&show_icons=true&locale=en&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
+</p>
