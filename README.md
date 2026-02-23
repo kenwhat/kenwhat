@@ -52,6 +52,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kenwhat&show_icons=true&locale=en&theme=radical&cache_seconds=1800" alt="kenwhat's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kenwhat&show_icons=true&locale=en&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-gamma-13.vercel.app/api?username=kenwhat&show_icons=true&locale=en&theme=radical&rank_icon=github&hide_border=false" alt="kenwhat's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-eight-gamma-13.vercel.app/api/top-langs?username=kenwhat&layout=compact&theme=radical&hide_border=false&langs_count=8" alt="Top Languages" />
 </p>
