@@ -14,7 +14,7 @@
 
 ## 🚀 Featured Projects
 
-- **[Face-Recognition-Attendance-System](https://github.com/kenwhat/Face-Recognition-Attendance-System) ** - Python-based face recognition system using deep learning
+- **[Face-Recognition-Attendance-System](https://github.com/kenwhat/Face-Recognition-Attendance-System)** - Python-based face recognition system using deep learning
 - **[foodielight](https://github.com/kenwhat/foodielight)** - Full-stack food ordering platform
 - **[emojireactor](https://github.com/kenwhat/emojireactor)** - Real-time emoji display using MediaPipe
 
